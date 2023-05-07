@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">OjoPolicial</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="Btnlogin">Iniciar Sesión</string>
+    <string name="Novedades">Novedades</string>
+    <string name="btnatras">Atrás</string>
+    <string name="nombreescuelas">EFP.Eugenio Espejo</string>
+
+
+    <string-array name="medico">
+        <item>Citas Médicas</item>
+        <item>Descanso Médico Interno</item>
+        <item>Descanso Médico Domiciliario</item>
+        <item>Lesiones</item>
+        <item>Terapia</item>
+        <item>Calamidad Doméstica</item>
+    </string-array>
+
+
+    <string-array name="nombres_escuelas">
+        <item>EFP Eugenio Espejo</item>
+        <item>EFP Tambillo</item>
+        <item>EFP San Pablo Del Lago</item>
+        <item>EFP Gral. Alberto Enríquez Gallo</item>
+        <item>EFP Fumisa</item>
+        <item>EFP La Delicia</item>
+        <item>EFP San Diego</item>
+        <item>EFP UER</item>
+    </string-array>
+
+
+
+</resources>
